@@ -1,8 +1,10 @@
+Introduction to Syazwan
+---
 - 👋 Hi, I’m @awangkusyazwan
-- 👀 I’m interested in cloud computing, NLP, AI, and applied data sciences.
+- 👀 I’m interested in cloud computing, front-end web development, NLP, AI, and applied data sciences.
 - 🌱 I’m currently learning all things computers, networks, and virtual infrastructures.
-- 💞️ I’m looking to collaborate on developing projects that drive humanity
-- 📫 How to reach me - email | awangkusyazwan@outlook.my
+- 💞️ I’m looking to collaborate on developing projects that drive humanity to its fullest potential.
+- 📫 How to reach me - email | awangkusyazwan@syaz.info
 
 <!---
 awangkusyazwan/awangkusyazwan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
