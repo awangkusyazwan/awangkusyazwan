@@ -1,3 +1,5 @@
+Heyy~ my name is Syazwan. Nice to e-meet you!
+
 Introduction to Syazwan
 ---
 - 👋 Hi, I’m @awangkusyazwan
