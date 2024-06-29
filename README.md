@@ -1,4 +1,6 @@
-Heyy~ my name is Syazwan. Nice to e-meet you!
+
+> [!NOTE]
+> This progressive change will take place as and when Syazwan reads about shell scripting and how he will conquer the world with a few steps in VIMland. 
 
 Introduction to Syazwan
 ---
