@@ -1,14 +1,14 @@
 
-> [!NOTE]
-> This progressive change will take place as and when Syazwan reads about shell scripting and how he will conquer the world with a few steps in VIMland. 
+> [!IMPORTANT]
+> Progressive change will take place as and when Syazwan reads about shell scripting and how he will conquer the world with a few steps in VIMland. 
 
 Introduction to Syazwan
 ---
 - 👋 Hi, I’m @awangkusyazwan
-- 👀 I’m interested in cloud computing, front-end web development, NLP, AI, and applied data sciences.
-- 🌱 I’m currently learning all things computers, networks, and virtual infrastructures.
+- 👀 I’m interested in full-stack web development, AI, and DevOps, cloud-first solutions, cybersecurity, and web hosting.
+- 🌱 I’m currently learning all things computers, networks, and front-end web development.
 - 💞️ I’m looking to collaborate on developing projects that drive humanity to its fullest potential.
-- 📫 How to reach me - email | awangkusyazwan@syaz.info
+- 📫 How to reach me - email | me@awangkusyazwan.work
 
 <!---
 awangkusyazwan/awangkusyazwan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
