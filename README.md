@@ -1,6 +1,6 @@
 
 > [!IMPORTANT]
-> Progressive change will take place as and when Syazwan reads about shell scripting and how he will conquer the world with a few steps in VIMland. 
+> Progressive change are taking place as and when Syazwan reads about shell scripting and how he will conquer the world with a few steps in VIMland. 
 
 Introduction to Syazwan
 ---
